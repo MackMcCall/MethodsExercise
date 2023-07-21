@@ -19,7 +19,6 @@ namespace MethodsExercise
                 Console.WriteLine(Subtract(82, 22, 36));
                 Console.WriteLine(Multiply(2, 5, 3));
                 Console.WriteLine(Divide(200, 10, 5));
-
             }
         }
 
